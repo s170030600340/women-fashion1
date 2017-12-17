@@ -24,13 +24,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="${images}/h1.jpg" alt="">
+                                    <img class="slide-image" src="${images}/mo1.jpg" alt="">
                                 </div>
-                                <div class="item">
-                                    <img class="slide-image" src="${images}/g1.png" alt="">
+                                <div class="item ">
+                                    <img class="slide-image" src="${images}/mo2.jpg" alt="">
                                 </div>
-                                <div class="item">
-                                    <img class="slide-image" src="${images}/g2.jpg" alt="">
+                                <div class="item ">
+                                    <img class="slide-image" src="${images}/mo.jpg" alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -138,7 +138,7 @@
                             <img src="${images}/dress 8.jpg" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 900</h4>
-                                <h4><a href="#">official wears</a>
+                                <h4><a href="#">Formals</a>
                                 </h4>
                                 <p>Attractive colours with simple design of official dress</p>
                             </div>
