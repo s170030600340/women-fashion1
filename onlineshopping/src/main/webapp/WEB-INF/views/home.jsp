@@ -50,7 +50,7 @@
                             <img src="${images}/dress 1.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 450 </h4>
-                                <h4><a href="#">long frock</a>
+                                <h4><p>long frock</p>
                                 </h4>
                                 <p>latest model frock in pink and white colour combo</p>
                             </div>
@@ -72,7 +72,7 @@
                             <img src="${images}/dress 5.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 800</h4>
-                                <h4><a href="#">salwar</a>
+                                <h4><p>salwar</p>
                                 </h4>
                                 <p>Different combo colours of chudithars for normalwears.</p>
                             </div>
@@ -94,7 +94,7 @@
                             <img src="${images}/dress 6.jpg" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 1500 </h4>
-                                <h4><a href="#">party wears </a>
+                                <h4><p>party wears </p>
                                 </h4>
                                 <p>party wears in stylish mode.</p>
                             </div>
@@ -116,7 +116,7 @@
                             <img src="${images}/dress 7.jpg" alt="" style="width:120px; height:110px;" >
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 1500</h4>
-                                <h4><a href="#">stylish saree</a>
+                                <h4><p>stylish saree</p>
                                 </h4>
                                 <p>Traditional wear with lots of designs.</p>
                             </div>
@@ -138,7 +138,7 @@
                             <img src="${images}/dress 8.jpg" alt="" style="width:120px; height:110px;">
                             <div class="caption">
                                 <h4 class="pull-right">&#8377; 900</h4>
-                                <h4><a href="#">Formals</a>
+                                <h4><p>Formals</p>
                                 </h4>
                                 <p>Attractive colours with simple design of official dress</p>
                             </div>

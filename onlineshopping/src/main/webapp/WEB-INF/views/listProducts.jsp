@@ -78,20 +78,7 @@
 									</tr>
 								</thead>
 
-								<tfoot>
-
-									<tr>
-										<th></th>
-										<th>Name</th>
-										<th>Brand</th>
-										<th>Price</th>
-										<th>Qty. Available</th>
-									</tr>
-
-
-								</tfoot>
-
-							</table>
+												</table>
 
 						</div>
 
